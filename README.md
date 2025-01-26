@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shivani Parab!
 
-<!--
-**neevap1/neevap1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Expertise
+- **Languages & Tools**: Python, SQL, R, C++, PHP, HTML, CSS, JavaScript  
+- **Data Visualization**: Power BI, Tableau  
+- **Cloud Services**: AWS, GCP  
+- Skilled in **predictive analytics**, **machine learning models**, and **trend analysis**.
 
-Here are some ideas to get you started:
+## 🌟 What I Do
+I analyze, visualize, and derive insights from data to solve real-world problems.  
+I’m passionate about applying data analytics to industries like **fashion**, **healthcare**, and **finance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+### 📊 Fashion Week Analysis (1989-2024)
+Used predictive analytics and clustering to forecast fashion trends and assess their impact on global economies.
+
+### 🔬 Biomarker Cancer Prediction Analysis
+Implemented machine learning models (Logistic Regression, Random Forest, SVM) to enhance breast cancer prediction accuracy.
+
+### 📈 Stock Investment Strategy Analysis
+Developed Python models to analyze seasonal trading patterns and optimize portfolio strategies.
+
+## 🌱 I’m currently working on:
+- **Optimizing workflows with Apache Airflow**
+- **Anomaly detection in distributed systems using Apache Spark**
+- **Product recommendation systems in e-commerce**
+
+## 📫 Let’s Connect!
+📩 **Email**: [neevap@bu.edu](mailto:neevap@bu.edu)  
+💼 **LinkedIn**: [Shivani Parab](https://www.linkedin.com/in/shivani-parab-336652297/)
+
+---
